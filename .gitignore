@@ -1,0 +1,8 @@
+# Build outputs and local IDE state (.NET / Visual Studio)
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.keystore
+*.pfx
